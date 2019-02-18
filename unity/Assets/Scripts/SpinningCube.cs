@@ -3,7 +3,7 @@ using System;
 
 public class SpinningCube : MonoBehaviour
 {
-    public float m_Speed = 20f, m_CachedSpeed = 30f;
+    public float m_Speed = 20f, m_CachedSpeed = 20f;
 
     private Vector3 m_RotationDirection = Vector3.up;
 
